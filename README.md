@@ -1,2 +1,2 @@
-# RPubs-Axelrod-Tournaments
-Replication files for "Replicating the Axelrod Tournaments" 
+# RPubs: Replicating the Axelrod Tournaments
+(https://rpubs.com/mstefan-rpubs/axelrod)
